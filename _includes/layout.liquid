@@ -11,12 +11,20 @@ title: 11ty Boilerplate
   <link rel="stylesheet" href="/styles/screen.css">
 </head>
 <body>
-  <nav>
-    <ul>
-      <li><a href="/" title="Go home">Home</a></li>
-      <li><a href="/about/" title="About the boilerplate">About</a></li>
-    </ul>
-  </nav>
-    {{ content }}
+    <header>
+        <h1>Explorer's Blog</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about/">About</a>
+        </nav>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>© 2025 Interstellar Logs</p>
+    </footer>
 </body>
 </html>
