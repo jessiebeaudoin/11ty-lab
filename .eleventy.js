@@ -1,6 +1,14 @@
-
-// The export statement makes these settings available to other files in 11ty
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("styles");
+  eleventyConfig.addShortcode("explorerNote", function(note) {
+      return `<div class="explorer-note">${note}</div>`;
+  });
+
+  return {
+      dir: {
+          input: ".",
+          includes: "_includes",
+          data: "_data",
+          output: "_site"
+      }
+  };
 };
