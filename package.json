@@ -1,8 +1,15 @@
 {
-  "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+  "name": "11ty-lab",
+  "version": "1.0.0",
+  "description": "Explorer's Blog using 11ty",
+  "main": ".eleventy.js",
+  "scripts": {
+      "build": "eleventy",
+      "serve": "eleventy --serve"
   },
-  "dependencies": {
-    "@11ty/eleventy-upgrade-help": "^3.0.1"
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+      "@11ty/eleventy": "^1.0.0"
   }
 }
