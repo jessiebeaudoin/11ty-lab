@@ -2,6 +2,28 @@
 title: "About"
 layout: "layout.liquid"
 ---
-
-<h2>About the Explorer</h2>
-<p>Lost among the stars, one human documents their journey through the cosmos.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/styles/screen.css">
+</head>
+<body id="design">
+    <nav>
+    <ul>
+        <li><a href="/" title="Go home">Home</a></li>
+        <li><a href="/about/" title="About the boilerplate">About</a></li>
+        <li><a href="/log1/" title="Blog Post 1">Post 1</a></li>
+        <li><a href="/log2/" title="Blog Post 2">Post 2</a></li>
+    </ul>
+    </nav>
+    <article>
+        <h1 id="abthead">{{ title }}</h1>
+        <div id="artpost">
+            {{ content }}
+        </div>
+    </article>
+</body>
+</html>
