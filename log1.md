@@ -1,5 +1,5 @@
 ---
-layout: about.liquid
+layout: posts.liquid
 title: "About"
 ---
 
