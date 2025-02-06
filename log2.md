@@ -81,4 +81,4 @@ Captain Vale recorded his final thoughts:
 
 As the **S.S. Horizon** vanished into the stars, the question remained: **What happened to the ones who came before? And more importantly—what still lingers in the void, waiting to be found?**
 
-*Generated using ChatGPT Prompt: "write me another blog, same length as the last, about Navigating a new planet and what the findings are."*
+*Generated using ChatGPT Prompt: "write me another blog, same length as the last, about Navigating a new planet and what the findings are." *
