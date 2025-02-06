@@ -53,4 +53,4 @@ As the ship sets course for home, Renshaw records his final thoughts in his capt
 
 ---
 
-<!-- Prompt: ChatGPT "Write a long blog about an interstellar explorer first coming into contact with a new life species called Zogarians. introduce the explorer and other sections" -->
+*Generated using chatgpt Prompt:"Write a long blog about an interstellar explorer first coming into contact with a new life species called Zogarians. introduce the explorer and other sections"* 
