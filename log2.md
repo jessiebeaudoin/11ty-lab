@@ -71,7 +71,7 @@ As the **S.S. Horizon** prepared for departure, the Vaelari sent one final trans
 
 ---
 
-## Conclusion: A New Chapter Begins**
+## Conclusion: A New Chapter Begins
 
 Epsilon Prime was not just another planet—it was a testament to the vast, untold history of the cosmos. Humanity had taken another step into the unknown, not as conquerors, but as seekers of truth. 
 
